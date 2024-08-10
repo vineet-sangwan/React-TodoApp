@@ -24,5 +24,5 @@ Ensure you have the following installed on your system:
 
 ```bash
 git clone https://github.com/vineet-sangwan/React-TodoApp.git
-cd todo-list-app
+cd TodoApp
 
